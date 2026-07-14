@@ -1,21 +1,37 @@
-# Hi, I'm Khrystyna 👋
+<h1 align="center">Hi 👋, I'm Khrystyna Biletska</h1>
+<h3 align="center">Frontend Developer from Ukraine 🇺🇦</h3>
 
-💻 Frontend Developer from Ukraine  
-🚀 Focused on React & modern web apps  
-🎯 Looking for internship / junior position  
+<p align="center">
+  💻 Junior Frontend Developer <br>
+  🚀 Focused on React & modern web applications <br>
+  🎯 Open to internship and junior opportunities
+</p>
+
+---
+
+## 🧑‍💻 About Me
+
+Frontend developer with experience in JavaScript, React, and building responsive web applications.  
+I have worked with REST APIs, created dynamic user interfaces, and collaborated in team projects using Git and Agile principles.  
+
+I focus on writing clean, maintainable code and continuously improving my skills.
 
 ---
 
 ## 🛠 Tech Stack
 
-![HTML](https://img.shields.io/badge/-HTML-orange)
-![CSS](https://img.shields.io/badge/-CSS-blue)
-![JS](https://img.shields.io/badge/-JavaScript-yellow)
-![React](https://img.shields.io/badge/-React-61DAFB)
-![Git](https://img.shields.io/badge/-Git-black)
-![GitHub](https://img.shields.io/badge/-GitHub-181717)
+<p>
+  <img src="https://img.shields.io/badge/-HTML-orange" />
+  <img src="https://img.shields.io/badge/-CSS-blue" />
+  <img src="https://img.shields.io/badge/-JavaScript-yellow" />
+  <img src="https://img.shields.io/badge/-React-61DAFB" />
+  <img src="https://img.shields.io/badge/-Git-black" />
+  <img src="https://img.shields.io/badge/-GitHub-181717" />
+</p>
+
 ---
-## 🚀 Projects
+
+## 🚀 Featured Projects
 
 ### 🌐 Team Project – Responsive Website
 Frontend Developer  
@@ -24,19 +40,19 @@ Frontend Developer
 🔹 Reusable UI components & clean structure  
 🔹 Collaboration via Git (PRs, branches, code reviews)  
 
-🔗 [Code](https://github.com/Anastasiia-S100306/team-project-127)  
+🔗 https://github.com/Anastasiia-S100306/team-project-127  
 
 ---
 
 ### ⚡ JavaScript Application – API Web App
 Frontend Developer  
 
-🔹 Dynamic app with real-time API fetching  
+🔹 Dynamic app with API integration  
 🔹 Async/await & fetch usage  
 🔹 DOM rendering & user interactions  
-🔹 Error handling & clean code  
+🔹 Error handling  
 
-🔗 [Code](https://github.com/BiletskaKhristina/goit-js-hw-12)  
+🔗 https://github.com/BiletskaKhristina/goit-js-hw-12  
 
 ---
 
@@ -44,23 +60,36 @@ Frontend Developer
 Frontend Developer  
 
 🔹 Clean and user-friendly UI  
-🔹 Semantic HTML structure  
-🔹 Responsive layout (CSS)  
+🔹 Semantic HTML  
+🔹 Responsive layout  
 
-🔗 [Code](https://github.com/BiletskaKhristina/cursova)  
+🔗 https://github.com/BiletskaKhristina/cursova  
 
 ---
 
 ### 📱 Markup Project – Responsive Website
 Frontend Developer  
 
-🔹 Built with Flexbox & Grid  
+🔹 Flexbox & Grid  
 🔹 Mobile-first approach  
-🔹 Accessibility & semantic HTML  
+🔹 Accessibility basics  
 
-🔗 [Code](https://github.com/BiletskaKhristina/goit-markup-hw-06)
+🔗 https://github.com/BiletskaKhristina/goit-markup-hw-06  
+
 ---
 
-## 📫 Contact me
-- Email: khrista.biletcka7@gmail.com 
-- Telegram: https://t.me/khrysttinka 
+## 🗣️ Languages
+
+![English](https://img.shields.io/badge/English-B1-blue?style=flat-square)
+![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: khrista.biletcka7@gmail.com  
+- 💬 Telegram: https://t.me/khrysttinka  
+
+---
+
+⭐️ From Khrystyna
